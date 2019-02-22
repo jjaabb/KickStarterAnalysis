@@ -1,0 +1,10 @@
+.DS_Store
+.project
+.idea/encodings.xml
+.idea/kickstarter-projects.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.ipynb_checkpoints/
+*.idea/
+*.csv
